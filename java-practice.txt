@@ -1,1 +1,9 @@
-java-practice
+cd ->이동
+dir ->
+git clone + github 주소
+git add .
+git push origin main
+git commit -m
+git branch -b + 브랜치이름
+git pull
+git checkout
